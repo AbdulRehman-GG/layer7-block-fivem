@@ -1,6 +1,6 @@
 # cfx-protections
 
-# add These lines at the end of Server.cfg
+# Add These lines at the end of server.cfg
 
 set sv_requestParanoia 3
 
